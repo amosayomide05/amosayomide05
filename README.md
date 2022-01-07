@@ -5,4 +5,4 @@
 
  
 
-[amosayomide05's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=amosayomide05)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amosayomide05" >
