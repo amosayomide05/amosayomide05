@@ -29,6 +29,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amosayomide05" >
 </a>
 </p>
-
-
-<img src="https://wakatime.com/share/@amosayomide05/ff6df2c2-596c-4046-8498-319dd2f90f0a.png" />
