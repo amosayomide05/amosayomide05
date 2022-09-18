@@ -30,4 +30,5 @@
 </a>
 </p>
 
-<figure><embed src="https://wakatime.com/share/@amosayomide05/9c690d66-62b5-4e6c-bae4-c5aaace806ce.svg"></embed></figure>
+
+<img src="https://wakatime.com/share/@amosayomide05/ff6df2c2-596c-4046-8498-319dd2f90f0a.png" />
