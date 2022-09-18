@@ -5,7 +5,7 @@
 </p>
 
 
-<br<br>
+<br>
 
 <p>
 <h2>🏆 Github Trophy </h2>
@@ -29,3 +29,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amosayomide05" >
 </a>
 </p>
+
+<figure><embed src="https://wakatime.com/share/@amosayomide05/9c690d66-62b5-4e6c-bae4-c5aaace806ce.svg"></embed></figure>
