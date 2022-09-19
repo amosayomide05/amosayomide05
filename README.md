@@ -36,8 +36,8 @@
 <a href="https://amosayomide05.github.io">
 📈 **My Github Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akgupta0777&show_icons=true&theme=gotham" alt="akgupta0777" />
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amosayomide05&show_icons=true&theme=gotham" alt="amosayomide05" /></p>
+<p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosayomide05&layout=compact&custom_title=Language%20Stats" height="200px" alt="Language Stats">
 </a>
 </p>
