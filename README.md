@@ -35,18 +35,18 @@
 
 <p>
 
-<a href="https://amosayomide05.github.io">
+
 📈 **My Github Stats**
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=amosayomide05&show_icons=true&theme=gotham" alt="amosayomide05" /></p>
 <p> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosayomide05&layout=compact&custom_title=Language%20Stats" height="200px" alt="Language Stats">
-</a>
+
 </p>
 
 <p>
 
-<a href="https://amosayomide05.github.io">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amosayomide05" >
 
 </p>
