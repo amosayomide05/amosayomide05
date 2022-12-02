@@ -26,7 +26,7 @@
 
 <p>
 <h2>🏆 Github Trophy </h2>
-<a href="https://amosayomide05.github.io">
+
 <img src="https://github-profile-trophy.vercel.app/?username=amosayomide05">
 </a>
 </p>
@@ -48,5 +48,5 @@
 
 <a href="https://amosayomide05.github.io">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amosayomide05" >
-</a>
+
 </p>
