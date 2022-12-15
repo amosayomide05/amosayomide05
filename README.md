@@ -8,7 +8,7 @@
 
  ![](https://visitor-badge.glitch.me/badge?page_id=amosayomide05)
  <p>
-<img src="https://wakatime.com/badge/user/1e3a29f6-dc3b-4315-ad63-31f24f685562/project/39def920-17da-425d-9314-27f5f7887ee6.svg">
+<img src="https://wakatime.com/badge/user/1e3a29f6-dc3b-4315-ad63-31f24f685562/project/813403b5-b0c5-4b57-a805-43db7a7ae56a.svg">
 </p>
 
 **Languages and Tools:**  
