@@ -37,12 +37,10 @@
 📈 **My Github Stats**
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=amosayomide05&show_icons=true&theme=gotham" alt="amosayomide05" /></p>
-<p> 
+
 ![](https://github.com/amosayomide05/stat/blob/master/generated/overview.svg)
 ![](https://github.com/amosayomide05/stat/blob/master/generated/languages.svg)
 
-
-</p>
 
 <p>
 
