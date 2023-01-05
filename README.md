@@ -1,10 +1,8 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/amosayomide05">
-  <img align="left" alt="amosayomide05 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" />
-</a>
-<a href="https://amosayomide05.github.io/">
-  <img align="left" alt="amosayomide05 portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/github.svg" />
-</a>
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,%20I%27m+Amos%20Ayomide.....;Welcome+to+my+Github+Profile....!&size=25%22">
+  </a>
+</h1>
 
  ![](https://visitor-badge.glitch.me/badge?page_id=amosayomide05)
 
