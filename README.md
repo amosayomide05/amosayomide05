@@ -7,9 +7,7 @@
 </a>
 
  ![](https://visitor-badge.glitch.me/badge?page_id=amosayomide05)
- <p>
-<img src="https://wakatime.com/badge/user/1e3a29f6-dc3b-4315-ad63-31f24f685562/project/813403b5-b0c5-4b57-a805-43db7a7ae56a.svg">
-</p>
+
 
 **Languages and Tools:**  
 
@@ -40,7 +38,9 @@
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=amosayomide05&show_icons=true&theme=gotham" alt="amosayomide05" /></p>
 <p> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosayomide05&layout=compact&custom_title=Language%20Stats" height="200px" alt="Language Stats">
+![](https://github.com/amosayomide05/stat/blob/master/generated/overview.svg)
+![](https://github.com/amosayomide05/stat/blob/master/generated/languages.svg)
+
 
 </p>
 
