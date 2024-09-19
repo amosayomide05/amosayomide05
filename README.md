@@ -1,13 +1,13 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,%20I%27m+Amos%20Ayomide.....;Welcome+to+my+Github+Profile....!&size=25%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,%20I%27m+Ayomide%20Amos.....;Welcome+to+my+Github+Profile....!&size=25%22">
   </a>
 </h1>
 
 💻 **Workspace**
 
-![Arch](https://img.shields.io/badge/Ubuntu%20Linux-1793D1?logo=ubuntu&logoColor=fff&style=for-the-badge)
-![Android 13](https://img.shields.io/badge/Android%2012-3DDC84?style=for-the-badge&logo=android%2013&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%20Linux-1793D1?logo=ubuntu&logoColor=fff&style=for-the-badge)
+![Android 14](https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android%2014&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows%2010&logoColor=white)
 
@@ -77,10 +77,3 @@
 ![](https://github.com/amosayomide05/stat/blob/master/generated/overview.svg)
 ![](https://github.com/amosayomide05/stat/blob/master/generated/languages.svg)
 
-
-<p>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amosayomide05" >
-
-</p>
