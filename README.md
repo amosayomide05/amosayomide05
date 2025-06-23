@@ -6,7 +6,7 @@
 
 💻 **Workspace**
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu%20Linux-1793D1?logo=ubuntu&logoColor=fff&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch&logoColor=fff&style=for-the-badge)
 ![Android 14](https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android%2014&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows%2010&logoColor=white)
