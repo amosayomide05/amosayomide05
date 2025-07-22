@@ -6,10 +6,9 @@
 
 💻 **Workspace**
 
-![Ubuntu](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch&logoColor=fff&style=for-the-badge)
-![Android 14](https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android%2014&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows%2010&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Android 15](https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 🕒 **Version Control**
 
@@ -23,14 +22,15 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%2300599C.svg?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2300599C.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![XML](https://img.shields.io/badge/XML-4285f4?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4285f4?style=for-the-badge&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-4285f4?style=for-the-badge&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-4285f4?style=for-the-badge&logoColor=white)
+![XML](https://img.shields.io/badge/XML-4285f4?style=for-the-badge&logo=xml&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4285f4?style=for-the-badge&logo=sqlite&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-4285f4?style=for-the-badge&logo=json&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-4285f4?style=for-the-badge&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 :books: **Frameworks, Platforms and Libraries**
 
@@ -46,9 +46,9 @@
 
 :globe_with_meridians: **Browsers**
 
-![Webvium Browser](https://img.shields.io/badge/Webvium%20Browser-4285f4?style=for-the-badge&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-4285f4?style=for-the-badge&logoColor=white)
-![Google Chrome Mobile](https://img.shields.io/badge/Google%20Chrome%20Mobile-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Webvium Browser](https://img.shields.io/badge/Webvium%20Browser-4285f4?style=for-the-badge&logo=webvium&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-4285f4?style=for-the-badge&logo=microsoftedge&logoColor=white)
+![Google Chrome Mobile](https://img.shields.io/badge/Google%20Chrome%20Mobile-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 
 :cloud: Hosting/SaaS
