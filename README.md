@@ -14,7 +14,7 @@ _I'm ***Amos Ayomide***, a backend developer and automation engineer focused on 
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://upwork.com/freelancers/ayomidea87"><img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg"/></a>
+        <a href="https://www.upwork.com/freelancers/~01bf53853c635618be"><img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg"/></a>
     </td>
     <td align='center' width="60">
         <a href="https://www.linkedin.com/in/amosayomide"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
