@@ -38,7 +38,9 @@ _I'm ***Amos Ayomide***, a backend developer and automation engineer focused on 
  
 [![Ayomide's GitHub stats](https://stats-zeta-six.vercel.app//api?username=amosayomide05&show_icons=true&theme=tokyonight&count_private=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/amosayomide05/)
  
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amosayomide05&theme=gotham)](https://git.io/streak-stats)
+-->
 </br>
 </br>
 <h2><i>Activity Graph</i></h2>
